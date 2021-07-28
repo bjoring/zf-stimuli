@@ -1,0 +1,1652 @@
+{
+    "experiment": "ar-gng-probe",
+    "parameters": {
+        "correct_timeout": true,
+        "correct_false": true,
+        "rand_replace": true,
+        "block": 5
+    },
+    "stimulus_root": "../zf-stimuli/ar-gng/probe",
+    "stimuli": [
+        {
+            "name": ["B30_added1_30", "B30_replaced1_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.32968,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added1_35", "B30_replaced1_35"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.32968,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added1_40", "B30_replaced1_40"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.32968,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added1_45", "B30_replaced1_45"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.32968,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added1_50", "B30_replaced1_50"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.32968,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added1_55", "B30_replaced1_55"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.32968,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added1_60", "B30_replaced1_60"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.32968,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added1_30", "B72_replaced1_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.60815,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added1_35", "B72_replaced1_35"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.60815,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added1_40", "B72_replaced1_40"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.60815,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added1_45", "B72_replaced1_45"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.60815,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added1_50", "B72_replaced1_50"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.60815,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added1_55", "B72_replaced1_55"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.60815,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added1_60", "B72_replaced1_60"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.60815,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added1_30", "B189_replaced1_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.11356,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added1_35", "B189_replaced1_35"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.11356,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added1_40", "B189_replaced1_40"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.11356,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added1_45", "B189_replaced1_45"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.11356,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added1_50", "B189_replaced1_50"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.11356,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added1_55", "B189_replaced1_55"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.11356,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added1_60", "B189_replaced1_60"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.11356,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["O169_added1_30", "O169_replaced1_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.19306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added1_35", "O169_replaced1_35"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.19306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added1_40", "O169_replaced1_40"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.19306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added1_45", "O169_replaced1_45"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.19306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added1_50", "O169_replaced1_50"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.19306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added1_55", "O169_replaced1_55"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.19306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added1_60", "O169_replaced1_60"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.19306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["B30_added2_30", "B30_replaced2_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added2_35", "B30_replaced2_35"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added2_40", "B30_replaced2_40"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added2_45", "B30_replaced2_45"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added2_50", "B30_replaced2_50"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added2_55", "B30_replaced2_55"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_added2_60", "B30_replaced2_60"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added2_30", "B72_replaced2_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added2_35", "B72_replaced2_35"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added2_40", "B72_replaced2_40"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added2_45", "B72_replaced2_45"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added2_50", "B72_replaced2_50"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added2_55", "B72_replaced2_55"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added2_60", "B72_replaced2_60"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added2_30", "B189_replaced2_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added2_35", "B189_replaced2_35"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added2_40", "B189_replaced2_40"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added2_45", "B189_replaced2_45"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added2_50", "B189_replaced2_50"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added2_55", "B189_replaced2_55"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added2_60", "B189_replaced2_60"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["O169_added2_30", "O169_replaced2_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added2_35", "O169_replaced2_35"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added2_40", "O169_replaced2_40"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added2_45", "O169_replaced2_45"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added2_50", "O169_replaced2_50"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added2_55", "O169_replaced2_55"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_added2_60", "O169_replaced2_60"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["B30_cmask_30", "B30_gapmask_30"],
+            "frequency":2,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_cmask_35", "B30_gapmask_35"],
+            "frequency":1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_cmask_40", "B30_gapmask_40"],
+            "frequency":1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_cmask_45", "B30_gapmask_45"],
+            "frequency":1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_cmask_50", "B30_gapmask_50"],
+            "frequency":1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_cmask_55", "B30_gapmask_55"],
+            "frequency":1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B30_cmask_60", "B30_gapmask_60"],
+            "frequency":1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_cmask_30", "B72_gapmask_30"],
+            "frequency": 2,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_cmask_35", "B72_gapmask_35"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_cmask_40", "B72_gapmask_40"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_cmask_45", "B72_gapmask_45"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_cmask_50", "B72_gapmask_50"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_cmask_55", "B72_gapmask_55"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_cmask_60", "B72_gapmask_60"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_cmask_30", "B189_gapmask_30"],
+            "frequency": 2,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_cmask_35", "B189_gapmask_35"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_cmask_40", "B189_gapmask_40"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_cmask_45", "B189_gapmask_45"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_cmask_50", "B189_gapmask_50"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_cmask_55", "B189_gapmask_55"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_cmask_60", "B189_gapmask_60"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["O169_cmask_30", "O169_gapmask_30"],
+            "frequency": 2,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_cmask_35", "O169_gapmask_35"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_cmask_40", "O169_gapmask_40"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_cmask_45", "O169_gapmask_45"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_cmask_50", "O169_gapmask_50"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_cmask_55", "O169_gapmask_55"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["O169_cmask_60", "O169_gapmask_60"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["P58_added1_30", "P58_replaced1_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.42324,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added1_35", "P58_replaced1_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.42324,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added1_40", "P58_replaced1_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.42324,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added1_45", "P58_replaced1_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.42324,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added1_50", "P58_replaced1_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.42324,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added1_55", "P58_replaced1_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.42324,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added1_60", "P58_replaced1_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.42324,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added1_30", "R56_replaced1_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.62970,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added1_35", "R56_replaced1_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.62970,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added1_40", "R56_replaced1_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.62970,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added1_45", "R56_replaced1_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.62970,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added1_50", "R56_replaced1_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.62970,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added1_55", "R56_replaced1_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.62970,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added1_60", "R56_replaced1_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.62970,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added1_30", "R180_replaced1_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.32821,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added1_35", "R180_replaced1_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.32821,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added1_40", "R180_replaced1_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.32821,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added1_45", "R180_replaced1_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.32821,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added1_50", "R180_replaced1_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.32821,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added1_55", "R180_replaced1_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.32821,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added1_60", "R180_replaced1_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.32821,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R253_added1_30", "R253_replaced1_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.51285,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added1_35", "R253_replaced1_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.51285,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added1_40", "R253_replaced1_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.51285,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added1_45", "R253_replaced1_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.51285,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added1_50", "R253_replaced1_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.51285,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added1_55", "R253_replaced1_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.51285,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added1_60", "R253_replaced1_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.51285,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["P58_added2_30", "P58_replaced2_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added2_35", "P58_replaced2_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added2_40", "P58_replaced2_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added2_45", "P58_replaced2_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added2_50", "P58_replaced2_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added2_55", "P58_replaced2_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_added2_60", "P58_replaced2_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added2_30", "R56_replaced2_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added2_35", "R56_replaced2_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added2_40", "R56_replaced2_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added2_45", "R56_replaced2_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added2_50", "R56_replaced2_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added2_55", "R56_replaced2_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_added2_60", "R56_replaced2_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added2_30", "R180_replaced2_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added2_35", "R180_replaced2_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added2_40", "R180_replaced2_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added2_45", "R180_replaced2_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added2_50", "R180_replaced2_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added2_55", "R180_replaced2_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_added2_60", "R180_replaced2_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R253_added2_30", "R253_replaced2_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added2_35", "R253_replaced2_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added2_40", "R253_replaced2_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added2_45", "R253_replaced2_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added2_50", "R253_replaced2_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added2_55", "R253_replaced2_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_added2_60", "R253_replaced2_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "ar",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["P58_cmask_30", "P58_gapmask_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_cmask_35", "P58_gapmask_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_cmask_40", "P58_gapmask_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_cmask_45", "P58_gapmask_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_cmask_50", "P58_gapmask_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_cmask_55", "P58_gapmask_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["P58_cmask_60", "P58_gapmask_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.53648,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_cmask_30", "R56_gapmask_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_cmask_35", "R56_gapmask_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_cmask_40", "R56_gapmask_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_cmask_45", "R56_gapmask_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_cmask_50", "R56_gapmask_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_cmask_55", "R56_gapmask_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R56_cmask_60", "R56_gapmask_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.81074,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_cmask_30", "R180_gapmask_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_cmask_35", "R180_gapmask_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_cmask_40", "R180_gapmask_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_cmask_45", "R180_gapmask_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_cmask_50", "R180_gapmask_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_cmask_55", "R180_gapmask_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R180_cmask_60", "R180_gapmask_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.82306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["R253_cmask_30", "R253_gapmask_30"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_cmask_35", "R253_gapmask_35"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_cmask_40", "R253_gapmask_40"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_cmask_45", "R253_gapmask_45"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_cmask_50", "R253_gapmask_50"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_cmask_55", "R253_gapmask_55"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["R253_cmask_60", "R253_gapmask_60"],
+            "frequency": 1,
+            "category": "F-",
+            "type": "mask",
+            "difftime": 0.41979,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        }
+
+    ]
+
+}

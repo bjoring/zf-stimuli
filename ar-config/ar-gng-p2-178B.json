@@ -1,0 +1,92 @@
+{
+    "experiment": "ar-gng-phase2",
+    "parameters": {
+        "correct_timeout": false,
+        "correct_false": false,
+        "rand_replace": true,
+        "block": 2
+    },
+    "stimulus_root": "../zf-stimuli/ar-gng/g200",
+    "stimuli": [
+        {
+            "name": ["B30_added1_30", "B30_replaced1_30"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.32968,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added1_30", "B72_replaced1_30"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.60815,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added1_30", "B189_replaced1_30"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.11356,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["O169_added1_30", "O169_replaced1_30"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.19306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["B30_added2_30", "B30_replaced2_30"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added2_30", "B72_replaced2_30"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added2_30", "B189_replaced2_30"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["O169_added2_30", "O169_replaced2_30"],
+            "frequency": 1,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        }
+
+    ]
+
+}

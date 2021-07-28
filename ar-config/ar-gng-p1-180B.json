@@ -1,0 +1,48 @@
+{
+    "experiment": "ar-gng-phase1",
+    "parameters": {
+        "correct_timeout": true,
+        "correct_false": true,
+        "rand_replace": true,
+	"block": 1
+    },
+    "stimulus_root": "../zf-stimuli/ar-gng/180B",
+    "stimuli": [
+        {
+            "name": "P58_continuous",
+            "frequency": 1,
+            "category": "F+",
+            "type": "song",
+            "difftime": 0.0,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": true},
+                          "timeout": {"correct": false}}
+        },
+        {
+            "name": "R56_continuous",
+            "frequency": 1,
+            "category": "F+",
+            "type": "song",
+            "difftime": 0.0,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": true},
+                          "timeout": {"correct": true}}
+        },
+    	{
+            "name": "R180_continuous",
+    	    "frequency": 1,
+    	    "category": "F+",
+            "type": "song",
+            "difftime": 0.0,
+    	    "responses": {"peck_left": {"p_reward": 1.0, "correct": true},
+    		          "timeout": {"correct": true}}
+    	},
+    	{
+    	    "name": "R253_continuous",
+    	    "frequency": 1,
+    	    "category": "F+",
+            "type": "song",
+            "difftime": 0.0,
+    	    "responses": {"peck_left": {"p_reward": 1.0, "correct": true},
+    		          "timeout": {"correct": true}}
+    	}
+    ]
+}

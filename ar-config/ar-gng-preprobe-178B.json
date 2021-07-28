@@ -1,0 +1,131 @@
+{
+    "experiment": "ar-gng-preprobe",
+    "parameters": {
+        "correct_timeout": true,
+        "correct_false": true,
+        "rand_replace": true,
+        "block": 5
+    },
+    "stimulus_root": "../zf-stimuli/ar-gng/preprobe",
+    "stimuli": [
+        {
+            "name": ["B30_added1_30", "B30_replaced1_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.32968,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added1_30", "B72_replaced1_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.60815,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added1_30", "B189_replaced1_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.11356,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["O169_added1_30", "O169_replaced1_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.19306,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["B30_added2_30", "B30_replaced2_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_added2_30", "B72_replaced2_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_added2_30", "B189_replaced2_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["O169_added2_30", "O169_replaced2_30"],
+            "frequency": 4,
+            "category": "F+",
+            "type": "ar",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        },
+        {
+            "name": ["B30_cmask_30", "B30_gapmask_30"],
+            "frequency":2,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.16118,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B72_cmask_30", "B72_gapmask_30"],
+            "frequency": 2,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.41435,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["B189_cmask_30", "B189_gapmask_30"],
+            "frequency": 2,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.45606,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                          "timeout": {"correct": false}}
+
+        },
+        {
+            "name": ["O169_cmask_30", "O169_gapmask_30"],
+            "frequency": 2,
+            "category": "F+",
+            "type": "mask",
+            "difftime": 0.38999,
+            "responses": {"peck_left": {"p_reward": 1.0, "correct": false},
+                      "timeout": {"correct": false}}
+        }
+
+    ]
+
+}
